@@ -287,7 +287,7 @@ Built as a portfolio project to demonstrate real-world .NET development practice
 
 ## License
 
-MIT License — feel free to use this as reference or inspiration.
+MIT License 
 
 ---
 

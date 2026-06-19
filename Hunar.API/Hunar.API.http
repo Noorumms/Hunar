@@ -1,0 +1,6 @@
+@Hunar.API_HostAddress = http://localhost:5184
+
+GET {{Hunar.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

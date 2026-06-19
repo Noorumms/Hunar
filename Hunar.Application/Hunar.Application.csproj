@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hunar.Domain\Hunar.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Delegates\" />
+    <Folder Include="Events\" />
+    <Folder Include="UseCases\Auth\" />
+    <Folder Include="UseCases\Review\" />
+    <Folder Include="UseCases\ServiceRequest\" />
+    <Folder Include="UseCases\Provider\" />
+  </ItemGroup>
+
+</Project>

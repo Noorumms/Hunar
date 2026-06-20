@@ -11,13 +11,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
     <Folder Include="Delegates\" />
     <Folder Include="Events\" />
-    <Folder Include="UseCases\Auth\" />
     <Folder Include="UseCases\Review\" />
     <Folder Include="UseCases\ServiceRequest\" />
     <Folder Include="UseCases\Provider\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
   </ItemGroup>
 
 </Project>

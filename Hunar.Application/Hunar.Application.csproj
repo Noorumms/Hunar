@@ -15,7 +15,6 @@
     <Folder Include="Events\" />
     <Folder Include="UseCases\Review\" />
     <Folder Include="UseCases\ServiceRequest\" />
-    <Folder Include="UseCases\Provider\" />
   </ItemGroup>
 
   <ItemGroup>

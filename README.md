@@ -262,9 +262,9 @@ Update-Database -StartupProject Hunar.API
 ## Development Progress
 
 - [x] Day 1 — Solution setup, Clean Architecture, Domain entities, EF Core, DB migration
-- [ ] Day 2 — JWT Authentication, Register, Login, Role-based access
-- [ ] Day 3 — Provider profiles, Service listings, Repository implementations
-- [ ] Day 4 — Customer flow, Service request booking workflow
+- [x] Day 2 — JWT Authentication, Register, Login, Role-based access
+- [x] Day 3 — Provider profiles, Service listings, Repository implementations
+- [x] Day 4 — Customer flow, Service request booking workflow
 - [ ] Day 5 — Reviews, Admin endpoints, Delegates and Events
 - [ ] Day 6 — Middleware, LINQ optimization, Global error handling
 - [ ] Day 7 — Frontend (HTML/CSS/JS connected to API)
